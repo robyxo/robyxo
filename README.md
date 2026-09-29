@@ -13,12 +13,7 @@ Sviluppatore con 4+ anni di esperienza nella creazione di applicazioni scalabili
       - - **DevOps:** Docker, Git, CI/CD
        
         - ## 🚀 Progetti Principali
-       
-        - ### 💼 [Pulse](https://github.com/robyxo/Pulse)
-        - Gestionale completo per scuole di ballo. Full-Stack: backend ASP.NET Core, frontend React, database SQL.
-        - - **Features:** Gestione corsi, studenti, pagamenti, calendari
-          - - **Tech:** .NET, React, SQL Server
-           
+        - 
             - ### 📱 [Pokemon App](https://github.com/robyxo/Pokemon)
             - App mobile Android/iOS per consultare Pokédex. Cross-platform con API integration.
             - - **Features:** Ricerca Pokémon, dettagli, immagini
